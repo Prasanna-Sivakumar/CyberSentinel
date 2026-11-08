@@ -1,5 +1,7 @@
 # CyberSentinel — Network Security Analytics & SOC Dashboard
 
+🚀 Live Demo:https://cybersentinel-soc.streamlit.app/
+
 CyberSentinel is a simulation-based network security analytics project built with Python, pandas, scikit-learn, SQLite, Streamlit, and Plotly.
 
 It demonstrates a workflow for generating simulated network traffic, identifying suspicious behaviour with rule-based detection and an Isolation Forest anomaly detector, evaluating predictions, storing results, and exploring them through a Security Operations Center (SOC) dashboard.
